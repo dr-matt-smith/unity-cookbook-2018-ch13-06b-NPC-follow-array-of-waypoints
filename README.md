@@ -1,2 +1,3 @@
-# unity-cookbook-2018-ch15-06b-NPC-follow-array-of-waypoints
-Chapter 15 - recipe 6b - NPC follow an array of waypoints in sequence
+# unity-cookbook-2018-ch13-06b-NPC-follow-array-of-waypoints
+
+NPC follow an array of waypoints in sequence
